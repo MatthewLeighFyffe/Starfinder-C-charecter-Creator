@@ -1,0 +1,6 @@
+U:\computing with cyber sicurity\Soft ware development\Starfinder Charecter Creator\Starfinder Charecter Creator\bin\Debug\Starfinder Charecter Creator.exe.config
+U:\computing with cyber sicurity\Soft ware development\Starfinder Charecter Creator\Starfinder Charecter Creator\bin\Debug\Starfinder Charecter Creator.exe
+U:\computing with cyber sicurity\Soft ware development\Starfinder Charecter Creator\Starfinder Charecter Creator\bin\Debug\Starfinder Charecter Creator.pdb
+U:\computing with cyber sicurity\Soft ware development\Starfinder Charecter Creator\Starfinder Charecter Creator\obj\Debug\Starfinder Charecter Creator.csprojResolveAssemblyReference.cache
+U:\computing with cyber sicurity\Soft ware development\Starfinder Charecter Creator\Starfinder Charecter Creator\obj\Debug\Starfinder Charecter Creator.exe
+U:\computing with cyber sicurity\Soft ware development\Starfinder Charecter Creator\Starfinder Charecter Creator\obj\Debug\Starfinder Charecter Creator.pdb
